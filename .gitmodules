@@ -1,0 +1,6 @@
+[submodule "todo_frontend"]
+	path = todo_frontend
+	url = https://github.com/Snehalathaparuchuri/todo_frontend.git
+[submodule "todo_backend"]
+	path = todo_backend
+	url = https://github.com/Snehalathaparuchuri/todo_backend.git
